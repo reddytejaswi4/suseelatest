@@ -9,8 +9,7 @@ public class nannybabe {
         //checkout nanama branch
         System.out.println("Changing file on Github");
         System.out.println("testing git pull updating nany branch  git pull master updating nany branch");
-        System.out.println("pushing after rebase command is run");
-        System.out.println("Test to see if the pull is applied to only the main branch");
+      
     }
 
 }
